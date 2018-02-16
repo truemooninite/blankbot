@@ -1,0 +1,16 @@
+{
+	"name": "blankbot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ai-chatbot": "^1.1.4",
+		"discord.js": "^11.3.0",
+		"jsonfile": "^4.0.0"
+	}
+}
